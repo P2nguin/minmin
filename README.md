@@ -1,11 +1,5 @@
-# minmin
+### 안유진
 
-###안녕
-
-#####여러분
-
----
-
-
-'''python
-
+[Alt text](/path/to/img.jpg)
+[Alt text](/path/to/img.jpg "Optional title")
+![](https://dprime.kr/g2/data/cheditor5/2210/view_thumbnail/mania-done-20221018082607_tkhdqbdn.jpg)
